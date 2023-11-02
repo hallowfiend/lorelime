@@ -35,6 +35,7 @@ search:
   # Supports true or false (default)
   button: false
 
+color_scheme: dark
 permalink: pretty
 
 aux_links:
