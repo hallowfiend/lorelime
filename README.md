@@ -1,5 +1,7 @@
 # lorelime
-A lore resource/wiki for the Borderlands series, written in MD
+A lore resource/wiki for the Borderlands series, written in MD.
+
+Currently under some construction, contact @hallowlock on Discord for details on how to contribute.
 
 ## Attributions, Credits & Thanks
 
