@@ -8,7 +8,9 @@ A lore resource/wiki for the Borderlands series, written in MD
 
 ## Software:
 [Jekyll](https://jekyllrb.com): site hosting
+
 [Mermaid](https://mermaid.js.org/#/): diagrams, timelines and such
+
 [MIT License](https://en.wikipedia.org/wiki/MIT_License): licensing
 
 ## Misc:
