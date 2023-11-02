@@ -4,7 +4,7 @@ A lore resource/wiki for the Borderlands series, written in MD
 ## Attributions, Credits & Thanks
 
 ## Writing:
-[hallowfiend]: repo creator, local lore fanatic
+[hallowfiend](https://github.com/hallowfiend): repo creator, local odd lore fanatic
 
 ## Software:
 [Jekyll](https://jekyllrb.com): site hosting
