@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Lorelime
+description: A lore resource for the Borderlands series
 theme: just-the-docs
+baseurl: ""
 
-url: https://just-the-docs.github.io
+url: "https://lorelime.github.io"
+
+
+permalink: pretty
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: 
